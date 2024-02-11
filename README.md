@@ -224,9 +224,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
 ## Contact
-Your Name - aniketcode100@gmail.com
+Your Name - divyanshgupta159@gmail.com
 
-Project Link: [https://github.com/aniket-703/JKEDU](https://github.com/aniket-703/JKEDU)
+Project Link: [https://github.com/DIVYANSH-2310/JKEDU](https://github.com/DIVYANSH-2310/JKEDU)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
